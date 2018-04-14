@@ -1,4 +1,4 @@
-/** @file    Taller-PuenteH.h
+/** @file    Taller-PuenteH.ino
  *  @author  Jorge Villalobos Carvajal (jorgemvc@gmail.com)
  *  @date    11.Abr.2018  
  *  @version 1.0 
