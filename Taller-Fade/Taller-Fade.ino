@@ -1,4 +1,4 @@
-/** @file    Taller-Fade.h
+/** @file    Taller-Fade.ino
  *  @author  Jorge Villalobos Carvajal (jorgemvc@gmail.com)
  *  @date    07.Abr.2018  
  *  @version 1.0 
