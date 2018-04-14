@@ -1,4 +1,4 @@
-/** @file    Taller-Buzzer.h
+/** @file    Taller-Buzzer.ino
  *  @author  Jorge Villalobos Carvajal (jorgemvc@gmail.com)
  *  @date    11.Abr.2018  
  *  @version 2.0 
