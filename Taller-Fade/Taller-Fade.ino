@@ -3,7 +3,8 @@
  *  @date    07.Abr.2018  
  *  @version 1.0 
  *  
- *  @brief   Lectura de un sensor ultrasonico
+ *  @brief   Disminuir/aumentar la luminosidad de un led
+ *           conectado a un puerto PWM
  *
  *  @licence  MIT License
  */
