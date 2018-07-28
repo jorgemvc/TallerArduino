@@ -3,7 +3,7 @@
  *  @date    11.Abr.2018  
  *  @version 1.0 
  *  
- *  @brief   Manejo del zumbador
+ *  @brief   Uso de un zumbador / buzzer
  *
  *  @licence  MIT License
  */
