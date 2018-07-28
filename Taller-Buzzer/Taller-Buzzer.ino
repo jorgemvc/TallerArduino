@@ -3,7 +3,7 @@
  *  @date    11.Abr.2018  
  *  @version 1.0 
  *  
- *  @brief   Lectura de un sensor de luminosidad
+ *  @brief   Manejo del zumbador
  *
  *  @licence  MIT License
  */
