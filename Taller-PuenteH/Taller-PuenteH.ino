@@ -3,7 +3,7 @@
  *  @date    11.Abr.2018  
  *  @version 1.0 
  *  
- *  @brief   Uso de servo motor
+ *  @brief   Uso de un puente H para el manejo de un motor.
  *
  *  @licence  MIT License
  */
