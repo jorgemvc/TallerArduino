@@ -3,7 +3,8 @@
  *  @date    28.Mar.2018  
  *  @version 1.0 
  *  
- *  @brief   Lectura de un sensor ultrasonico
+ *  @brief   Lectura de un sensor ultrasonico, combinado con el uso
+ *           de tres leds
  *
  *  @licence  MIT License
  */
