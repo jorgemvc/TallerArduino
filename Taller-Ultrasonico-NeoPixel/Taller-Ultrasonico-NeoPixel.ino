@@ -3,7 +3,8 @@
  *  @date    11.Abr.2018  
  *  @version 1.0 
  *  
- *  @brief   Lectura de un sensor ultrasonico
+ *  @brief   Lectura de un sensor ultrasonico, combinado con el
+ *           uso de un NeoPixel
  *
  *  @licence  MIT License
  */
